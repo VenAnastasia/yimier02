@@ -37,7 +37,7 @@
     "imagemin-jpegtran": "^5.0.2",
     "imagemin-optipng": "^5.2.1",
     "imagemin-pngquant": "^5.1.0",
-    "jquery": "2.2.1",
+    "jquery": "3.4.0",
     "uglifyjs-webpack-plugin": "^1.2.5",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
